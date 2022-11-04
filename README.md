@@ -6,7 +6,7 @@
 
 ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS--green)
 
-## Responsive PAYTM UI Clone [Live Link]()
+## Responsive PAYTM UI Clone [Live Link](https://paytmlive-pro.netlify.app/)
 
 #### Screenshot
 
